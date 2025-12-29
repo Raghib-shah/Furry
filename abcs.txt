@@ -1,0 +1,4 @@
+Admin user created successfully!
+Username: admin123  
+Password: strong@123
+Furry-web
