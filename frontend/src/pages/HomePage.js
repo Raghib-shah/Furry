@@ -52,8 +52,7 @@ const HomePage = () => {
             </AnimatedSection>
             <AnimatedSection>
               <div className="w-full aspect-[1/1] bg-surface border border-borderSoft rounded-2xl flex items-center justify-center text-textMuted shadow-2xl shadow-primary/20">
-               <img src={HeroImg} alt="Hero Art" />
-
+                 <img src={HeroImg} alt="Hero Art" className="w-full h-full object-cover rounded-2xl" />
               </div>
             </AnimatedSection>
           </div>
